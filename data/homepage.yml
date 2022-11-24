@@ -166,16 +166,16 @@ client_and_work:
         _2x: "img/works/tableau.png"
       is_even: true
 
-    # - title: "Regression analysis"
-    #   description: "work in progress"
-    #   button:
-    #     icon: "icon-arrow-right"
-    #     btnText: "Launch Application"
-    #     #URL: "https://business-science.shinyapps.io/cannondale_price_prediction_app/"
-    #   image:
-    #     x: "img/works/sps2.png"
-    #     _2x: "img/works/sps2.png"
-    #   is_even: false
+     - title: "Custom tools and applications"
+       description: "Here you'll find my custom Shiny apps prepared based on R or Kaggle datasets."
+       button:
+         icon: "icon-arrow-right"
+         btnText: "Launch Application"
+         #URL: "https://business-science.shinyapps.io/cannondale_price_prediction_app/"
+       image:
+         x: "img/works/tableau.png"
+         _2x: "img/works/tableau.png"
+       is_even: false
 
     
 
