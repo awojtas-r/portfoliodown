@@ -4,7 +4,7 @@ head:
 # showcase
 showcase:
   enable: true
-  title: "Hello, my name is Adam Wojtas, Senior BI & Analytics Manager (EMEA)"
+  title: "Adam Wojtas, Senior BI & Analytics Manager (EMEA)"
   description: "I am working at Amazon leading a team of Data Analysts, providing BI & Analytics solutions and leveraging data to analyze past, real-time, and future information to model the probability of my projects outcomes and use it to make data-based, strategical decisions."
   image:
     x: "img/showcase/wh4.png"
