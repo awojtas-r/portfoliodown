@@ -95,7 +95,7 @@ client_and_work:
 
   works:
     - title: "Amazon apps and reports"
-      description: "Since Amazon apps and their content is fully confidentatial they cannot be publicly presented. Within my 8 years with the company I created dozens of Shiny applications, automated R Markdown narratives (WBR/QBR), BI reports using Power BI, Quicksight, Superset, Tableau or other BI tools, providing insights and contributing to the business objectives."
+      description: "Since Amazon apps and their content is fully confidentatial they cannot be publicly presented. Within my 8 years with the company I created dozens of Shiny applications, internal R packages, automated R Markdown narratives (WBR/QBR), BI reports using Power BI, Quicksight, Superset, Tableau or other BI tools, providing insights and contributing to the business objectives."
       button:
         icon: "icon-arrow-right"
         btnText: "Illustrative applications"
@@ -105,8 +105,8 @@ client_and_work:
         _2x: "img/works/tableau.png"
       is_even: true
 
-    - title: "Custom tools and applications"
-      description: "Here you'll find my custom Shiny apps leveraging R or Kaggle datasets."
+    - title: "Custom tools and applications (work in progress)"
+      description: "In this secrion you'll find my custom Shiny apps leveraging R or Kaggle datasets. Each application is supposed to approach and solve a real business problem."
       button:
          icon: "icon-arrow-right"
          btnText: "Launch Application"
