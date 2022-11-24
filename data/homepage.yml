@@ -9,9 +9,9 @@ showcase:
   image:
     x: "img/showcase/wh4.png"
     _2x: "img/showcase/wh4.png"
-  # imageMobile:
-  #   x: "img/showcase/data-science.gif"
-  #   _2x: "img/showcase/data-science.gif"
+  imageMobile:
+    x: "img/showcase/wh4.png"
+    _2x: "img/showcase/wh4.png"
 
   button:
     icon: "icon-mail-fill"
