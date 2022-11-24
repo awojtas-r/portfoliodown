@@ -28,27 +28,6 @@ showcase:
     - icon: "twitter"
       URL: "https://twitter.com"
 
-    # - icon: "dribbble"
-    #   URL: "https://dribbble.com"
-    # 
-    # - icon: "behance"
-    #   URL: "https://www.behance.net"
-    # 
-    # - icon: "youtube"
-    #   URL: "https://www.youtube.com"
-    # 
-    # - icon: "instagram"
-    #   URL: "https://www.instagram.com"
-    # 
-    # - icon: "facebook"
-    #   URL: "https://www.facebook.com"
-    # 
-    # - icon: "codepen"
-    #   URL: "#"
-
-    # - icon: "yelp"
-    #   URL: "https://www.yelp.com/"
-
 # about
 about:
   enable: true
@@ -80,10 +59,6 @@ experience:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
     URL: "https://www.linkedin.com/in/adamwojtas/"
-  # button2:
-  #   icon: "icon-profile-fill"
-  #   btnText: "Download My Resume"
-  #   URL: "#"
 
   items:
     - title: "Senior Program Manager, BI & Analytics (EMEA)"
@@ -93,10 +68,6 @@ experience:
     - title: "Transport, Logistics and Supply Chain specialist"
       company: "Various companies"
       duration: "2001 - 2014"
-
-    # - title: "Manager of Product Engineering"
-    #   company: "Bonney Forge"
-    #   duration: "Nov 2011 - Mar 2014"
 
 # education
 education:
@@ -121,38 +92,6 @@ education:
 client_and_work:
   title: "Portfolio"
   enable: true
-  
-  enable_clients: false
-  clients:
-    - logo:
-        x: "img/clients/asgardia.png"
-        _2x: "img/clients/asgardia@2x.png"
-      alt: "Asgardia"
-
-    - logo:
-        x: "img/clients/earth-2.png"
-        _2x: "img/clients/earth-2@2x.png"
-      alt: "Earth 2.0"
-
-    - logo:
-        x: "img/clients/goldline.png"
-        _2x: "img/clients/goldline@2x.png"
-      alt: "Goldline"
-
-    - logo:
-        x: "img/clients/kanba.png"
-        _2x: "img/clients/kanba@2x.png"
-      alt: "Kanba"
-
-    - logo:
-        x: "img/clients/zoo-tv.png"
-        _2x: "img/clients/zoo-tv@2x.png"
-      alt: "Zoo"
-
-    - logo:
-        x: "img/clients/ztos.png"
-        _2x: "img/clients/ztos@2x.png"
-      alt: "Ztos"
 
   works:
     - title: "Amazon apps and reports"
@@ -166,77 +105,13 @@ client_and_work:
         _2x: "img/works/tableau.png"
       is_even: true
 
-     - title: "Custom tools and applications"
-       description: "Here you'll find my custom Shiny apps leveraging R or Kaggle datasets."
-       button:
+    - title: "Custom tools and applications"
+      description: "Here you'll find my custom Shiny apps leveraging R or Kaggle datasets."
+      button:
          icon: "icon-arrow-right"
          btnText: "Launch Application"
          #URL: "https://business-science.shinyapps.io/cannondale_price_prediction_app/"
-       image:
+      image:
          x: "img/works/tableau.png"
          _2x: "img/works/tableau.png"
-       is_even: false
-
-    
-
-# testimonial
-testimonial:
-  enable: false
-  title: "Testimonials"
-  items:
-  
-    - name: "Justin Kurland, PhD"
-      position: "Lead Data Scientist, Northwestern Mutual"
-      content: "In less than 6 months after starting my first Business Science Course with Matt I had fully transitioned into a role as a lead data scientist and my life is better for it!"
-      image:
-        x: "img/testimonials/justin.jpg"
-        _2x: "img/testimonials/justin.jpg"
-        
-    - name: "Chris Selig"
-      position: "Data Scientist"
-      content: "Because of all the R courses Matt Dancho has provided, I landed my first Data Scientist role. Setting up shiny dashboards in AWS was extremely helpful during my interview."
-      image:
-        x: "img/testimonials/chris.jpg"
-        _2x: "img/testimonials/chris.jpg"
-
-    
-
-    - name: "Mohana Krishna Chittoor"
-      position: "Lead Data Scientist, Money View"
-      content: "After your entry into my life, I got a 10% pay raise and then after another 6-months of 26%, and in just another 2-months a 40% hike. I can grab a job wherever I want."
-      image:
-        x: "img/testimonials/mohana.jpg"
-        _2x: "img/testimonials/mohana.jpg"
-
-# contact
-contact:
-  enable: false
-  title: "Contact Adam"
-
-  image:
-    x: "img/who-am-i/aww.png"
-    _2x: "img/who-am-i/aww.png"
-
-  button:
-    icon: "icon-mail-fill"
-    btnText: "Send Message"
-    btnAction: 'mailto:a.wojtas@outlook.com'
-    
-  # phone:
-  #   title: "Phone Number"
-  #   number: "--"
-  # email:
-  #   title: "Email"
-  #   email: '<a href="mailto:your-email@gmail.com">your-email@gmail.com</a>'
-  # address:
-  #   title: "Address"
-  #   address: "--"
-  
-
-# newsletter
-newsletter:
-  enable: false
-  title: "Newsletter subscription"
-  success_message: "Successfully subscribed"
-  error_message: "Error while subscribing."
-  note: "We'll never share your email with anyone else."
+      is_even: false
