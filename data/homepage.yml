@@ -167,7 +167,7 @@ client_and_work:
       is_even: true
 
      - title: "Custom tools and applications"
-       description: "Here you'll find my custom Shiny apps prepared based on R or Kaggle datasets."
+       description: "Here you'll find my custom Shiny apps leveraging R or Kaggle datasets."
        button:
          icon: "icon-arrow-right"
          btnText: "Launch Application"
