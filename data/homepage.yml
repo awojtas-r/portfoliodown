@@ -32,9 +32,9 @@ about:
     cost of problems and delivering a return-on-investment with my solutions. 
     I enjoy learning, working with stakeholders, and making better decisions with data.
     </p>
-  #button:
-    #icon: "icon-smile-fill"
-    #btnText: "About Me"
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
     #URL: "https://www.linkedin.com"
   image:
     x: "img/who-am-i/aww.png"
