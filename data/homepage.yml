@@ -100,14 +100,14 @@ client_and_work:
       is_even: true
 
     - title: "Stock Analyzer"
-      description: "This simple, mini-app was created during one of Business Science University courses which I attended. Application enables to analyze S&P 500 companies using moving averages (short and long trend)."
+      description: "This simple, mini-app was created during one of Business Science University courses I attended. Application enables to analyze S&P 500 companies using moving averages (short and long trend), add/remove favourite stocks and read analyst's commentary."
       button:
          icon: "icon-arrow-right"
          btnText: "Launch Application"
          URL: "https://adamwojtas.shinyapps.io/stock_analyzer_app/"
       image:
-         x: "img/works/s_and_p.png"
-         _2x: "img/works/s_and_p.png"
+         x: "img/works/sp1.png"
+         _2x: "img/works/sp1.png"
       is_even: false
 
     - title: "Custom tools and applications (work in progress)"
