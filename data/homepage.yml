@@ -4,51 +4,19 @@ head:
 # showcase
 showcase:
   enable: true
-  title: "Hello, I’m Adam Wojtas."
-  subtitle: "Senior BI & Analytics Manager (EMEA)"
-  description: "I am working at Amazon leading a team of Data Analysts, providing BI & Analytics solutions and leveraging data to analyze past, real-time, and future information to model the probability of my projects outcomes and use it to make data-based, strategical decisions."
+  title: "Adam Wojtas, Senior BI & Analytics Manager (EMEA)"
+  description: "I am working at Amazon leading a team of Data Analysts, providing BI & Analytics solutions and leveraging data to analyze past, real-time, and future information to model the probability of my projects outcomes and use it to make data-based, strategic decisions."
   image:
     x: "img/showcase/wh4.png"
     _2x: "img/showcase/wh4.png"
-  # imageMobile:
-  #   x: "img/showcase/data-science.gif"
-  #   _2x: "img/showcase/data-science.gif"
+  imageMobile:
+    x: "img/showcase/wh4.png"
+    _2x: "img/showcase/wh4.png"
 
   button:
     icon: "icon-mail-fill"
     btnText: "Contact Adam"
     URL: "mailto:a.wojtas@outlook.com"
-
-  socialLinks:
-    - icon: "linkedin"
-      URL: "https://www.linkedin.com/in/adamwojtas/"
-
-    - icon: "github"
-      URL: "https://github.com"
-
-    - icon: "twitter"
-      URL: "https://twitter.com"
-
-    # - icon: "dribbble"
-    #   URL: "https://dribbble.com"
-    # 
-    # - icon: "behance"
-    #   URL: "https://www.behance.net"
-    # 
-    # - icon: "youtube"
-    #   URL: "https://www.youtube.com"
-    # 
-    # - icon: "instagram"
-    #   URL: "https://www.instagram.com"
-    # 
-    # - icon: "facebook"
-    #   URL: "https://www.facebook.com"
-    # 
-    # - icon: "codepen"
-    #   URL: "#"
-
-    # - icon: "yelp"
-    #   URL: "https://www.yelp.com/"
 
 # about
 about:
@@ -67,7 +35,7 @@ about:
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
-    URL: "https://www.linkedin.com"
+    #URL: "https://www.linkedin.com"
   image:
     x: "img/who-am-i/aww.png"
     _2x: "img/who-am-i/aww.png"
@@ -76,15 +44,11 @@ about:
 experience:
   enable: true
   title: "Experience"
-  description: "Over 20+ years of experience working with companies from areas of transport, logistics and e-commerce. Currently, I am working at Amazon leading a team of Data Analysts, managing EU network projects and supporting dive-deep activities of EU quality departments by helping them to identify potential wastes and process deviations."
+  description: "Over 15+ years of experience working with companies from areas of transport, logistics and e-commerce. Currently, I am working at Amazon leading a team of Data Analysts, managing EU network projects and supporting dive-deep activities of EU quality departments by helping them to identify potential wastes and process deviations."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
     URL: "https://www.linkedin.com/in/adamwojtas/"
-  # button2:
-  #   icon: "icon-profile-fill"
-  #   btnText: "Download My Resume"
-  #   URL: "#"
 
   items:
     - title: "Senior Program Manager, BI & Analytics (EMEA)"
@@ -95,15 +59,15 @@ experience:
       company: "Various companies"
       duration: "2001 - 2014"
 
-    # - title: "Manager of Product Engineering"
-    #   company: "Bonney Forge"
-    #   duration: "Nov 2011 - Mar 2014"
-
 # education
 education:
   enable: true
   title: "Education"
   items:
+    - university: "Royal Melbourne Institute of Technology"
+      year: "2023 (enrolled)"
+      degree: "Business Analyst (online certification)"
+
     - university: "Wroclaw University of Economics and Business"
       year: "2016-2017"
       degree: "Lean Management (postgraduate)"
@@ -112,7 +76,7 @@ education:
       year: "2013-2014"
       degree: "Logistics in Business (postgraduate)"
       
-    - university: "Univeristy of Business in Wroclaw"
+    - university: "University of Business in Wroclaw"
       year: "2001-2004"
       degree: "Bachelor of Financial Management"
 
@@ -122,42 +86,10 @@ education:
 client_and_work:
   title: "Portfolio"
   enable: true
-  
-  enable_clients: false
-  clients:
-    - logo:
-        x: "img/clients/asgardia.png"
-        _2x: "img/clients/asgardia@2x.png"
-      alt: "Asgardia"
-
-    - logo:
-        x: "img/clients/earth-2.png"
-        _2x: "img/clients/earth-2@2x.png"
-      alt: "Earth 2.0"
-
-    - logo:
-        x: "img/clients/goldline.png"
-        _2x: "img/clients/goldline@2x.png"
-      alt: "Goldline"
-
-    - logo:
-        x: "img/clients/kanba.png"
-        _2x: "img/clients/kanba@2x.png"
-      alt: "Kanba"
-
-    - logo:
-        x: "img/clients/zoo-tv.png"
-        _2x: "img/clients/zoo-tv@2x.png"
-      alt: "Zoo"
-
-    - logo:
-        x: "img/clients/ztos.png"
-        _2x: "img/clients/ztos@2x.png"
-      alt: "Ztos"
 
   works:
     - title: "Amazon apps and reports"
-      description: "Since Amazon apps and their content is fully confidentatial they cannot be publicly presented. Within my 8 years with the company I created dozens of Shiny applications, automated R Markdown narratives (WBR/QBR), BI reports using Power BI, Quicksight, Superset, Tableau and other tools, providing insights and contributing to the business objectives."
+      description: "Since Amazon apps and their content is fully confidentatial they cannot be publicly presented. Within my 8 years with the company I created dozens of Shiny applications, internal R packages, automated R Markdown narratives (WBR/QBR), BI reports using Power BI, Quicksight, Superset, Tableau or other BI tools, providing insights and contributing to the business objectives."
       button:
         icon: "icon-arrow-right"
         btnText: "Illustrative applications"
@@ -167,77 +99,24 @@ client_and_work:
         _2x: "img/works/tableau.png"
       is_even: true
 
-    # - title: "Regression analysis"
-    #   description: "work in progress"
-    #   button:
-    #     icon: "icon-arrow-right"
-    #     btnText: "Launch Application"
-    #     #URL: "https://business-science.shinyapps.io/cannondale_price_prediction_app/"
-    #   image:
-    #     x: "img/works/sps2.png"
-    #     _2x: "img/works/sps2.png"
-    #   is_even: false
-
-    
-
-# testimonial
-testimonial:
-  enable: false
-  title: "Testimonials"
-  items:
-  
-    - name: "Justin Kurland, PhD"
-      position: "Lead Data Scientist, Northwestern Mutual"
-      content: "In less than 6 months after starting my first Business Science Course with Matt I had fully transitioned into a role as a lead data scientist and my life is better for it!"
+    - title: "Stock Analyzer"
+      description: "This simple, mini-app was created during one of Business Science University courses which I attended. Application enables to analyze S&P 500 companies using moving averages (short and long trend)."
+      button:
+         icon: "icon-arrow-right"
+         btnText: "Launch Application"
+         URL: "https://adamwojtas.shinyapps.io/stock_analyzer_app/"
       image:
-        x: "img/testimonials/justin.jpg"
-        _2x: "img/testimonials/justin.jpg"
-        
-    - name: "Chris Selig"
-      position: "Data Scientist"
-      content: "Because of all the R courses Matt Dancho has provided, I landed my first Data Scientist role. Setting up shiny dashboards in AWS was extremely helpful during my interview."
+         x: "img/works/s_and_p.png"
+         _2x: "img/works/s_and_p.png"
+      is_even: false
+
+    - title: "Custom tools and applications (work in progress)"
+      description: "In this secrion you'll find my custom Shiny apps leveraging R or Kaggle datasets. Each application is supposed to approach and solve a real business problem."
+      button:
+         icon: "icon-arrow-right"
+         btnText: "Launch Application"
+         #URL: "https://business-science.shinyapps.io/cannondale_price_prediction_app/"
       image:
-        x: "img/testimonials/chris.jpg"
-        _2x: "img/testimonials/chris.jpg"
-
-    
-
-    - name: "Mohana Krishna Chittoor"
-      position: "Lead Data Scientist, Money View"
-      content: "After your entry into my life, I got a 10% pay raise and then after another 6-months of 26%, and in just another 2-months a 40% hike. I can grab a job wherever I want."
-      image:
-        x: "img/testimonials/mohana.jpg"
-        _2x: "img/testimonials/mohana.jpg"
-
-# contact
-contact:
-  enable: false
-  title: "Contact Adam"
-
-  image:
-    x: "img/who-am-i/aww.png"
-    _2x: "img/who-am-i/aww.png"
-
-  button:
-    icon: "icon-mail-fill"
-    btnText: "Send Message"
-    btnAction: 'mailto:a.wojtas@outlook.com'
-    
-  # phone:
-  #   title: "Phone Number"
-  #   number: "--"
-  # email:
-  #   title: "Email"
-  #   email: '<a href="mailto:your-email@gmail.com">your-email@gmail.com</a>'
-  # address:
-  #   title: "Address"
-  #   address: "--"
-  
-
-# newsletter
-newsletter:
-  enable: false
-  title: "Newsletter subscription"
-  success_message: "Successfully subscribed"
-  error_message: "Error while subscribing."
-  note: "We'll never share your email with anyone else."
+         x: "img/works/tableau.png"
+         _2x: "img/works/tableau.png"
+      is_even: true
