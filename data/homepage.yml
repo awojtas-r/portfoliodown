@@ -64,9 +64,6 @@ education:
   enable: true
   title: "Education"
   items:
-    - university: "Royal Melbourne Institute of Technology"
-      year: "2023 (enrolled)"
-      degree: "Business Analyst (online certification)"
 
     - university: "Wroclaw University of Economics and Business"
       year: "2016-2017"
