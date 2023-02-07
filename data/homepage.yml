@@ -65,6 +65,10 @@ education:
   title: "Education"
   items:
 
+    - university: "DASCA Certification"
+      year: "2023 (in progress)"
+      degree: "Senior Data Scientist (SDS)"
+
     - university: "Wroclaw University of Economics and Business"
       year: "2016-2017"
       degree: "Lean Management (postgraduate)"
