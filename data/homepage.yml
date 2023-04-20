@@ -4,7 +4,7 @@ head:
 # showcase
 showcase:
   enable: true
-  title: "Adam Wojtas, Senior Manager BI & Analytics (EMEA)"
+  title: "Adam Wojtas, Sr Program Manager, BI & Analytics (EMEA)"
   description: "I am working at Amazon leading a team of Data Analysts, providing BI & Analytics solutions and leveraging data to analyze past, real-time, and future information to model the probability of my projects outcomes and use it to make data-based, strategic decisions."
   image:
     x: "img/showcase/wh4.png"
@@ -33,9 +33,9 @@ about:
     I enjoy learning, working with stakeholders, and making better decisions with data.
     </p>
   button:
-    icon: "icon-smile-fill"
-    btnText: "About Me"
-    #URL: "https://www.linkedin.com"
+    icon: "linkedin"
+    btnText: "My LinkedIn"
+    URL: "https://www.linkedin.com/in/adamwojtas/"
   image:
     x: "img/who-am-i/aww.png"
     _2x: "img/who-am-i/aww.png"
@@ -66,7 +66,7 @@ education:
   items:
 
     - university: "Royal Melbourne Institute of Technology"
-      year: "2023 (April-June)"
+      year: "2023 (in progress)"
       degree: "Project Management for Professionals"
 
     - university: "DASCA Certification"
