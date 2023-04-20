@@ -33,7 +33,7 @@ about:
     I enjoy learning, working with stakeholders, and making better decisions with data.
     </p>
   button:
-    icon: "linkedin"
+    icon: "icon-linkedin-fill"
     btnText: "My LinkedIn"
     URL: "https://www.linkedin.com/in/adamwojtas/"
   image:
