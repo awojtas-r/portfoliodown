@@ -23,11 +23,9 @@ about:
   enable: true
   title: "Who am I?"
   content: 
-    <p class="lead">
     "I’m deeply passionate about continuous learning in data science, AI, and analytics—there's always one more course, framework, or technique to master (as Steve Jobs aptly put it: 'there's always one more thing to learn'). My queue of technical courses never seems to shrink.
     In April 2023, I earned the Senior Data Scientist (SDS™) certification from DASCA (Data Science Council of America), a globally recognized credential validating advanced expertise in data modeling, machine learning, predictive analytics, and leading data-driven initiatives.
     Outside of work and learning, I recharge by traveling and spending quality time with family and friends—whether on a relaxing vacation or creating new memories together."
-    </p>
   button:
     icon: "icon-linkedin-fill"
     btnText: "My LinkedIn"
@@ -86,7 +84,7 @@ education:
 # Client & Work
 client_and_work:
   title: "Portfolio"
-  enable: true
+  enable: false
 
   works:
     - title: "Amazon apps and reports"
