@@ -5,7 +5,7 @@ head:
 showcase:
   enable: true
   title: "Adam Wojtas, Analytics & Program Manager Regional Leader"
-  description: "As a Analytics and Program Management Leader at Amazon, I lead a high-performing team of Data Analysts, Data Scientists, and AI Engineers. We deliver cutting-edge BI, ML, and analytics solutions that harness past, real-time, and predictive data to model project outcomes and drive strategic, data-informed decisions."
+  description: "I lead a high-performing team of Program Managers, Data Scientists, and AI Engineers. We deliver cutting-edge BI, ML, and analytics solutions that harness past, real-time, and predictive data to model project outcomes and drive strategic, data-informed decisions."
   image:
     x: "img/showcase/wh4.png"
     _2x: "img/showcase/wh4.png"
@@ -24,13 +24,11 @@ about:
   title: "Who am I?"
   content: 
     <p class="lead">
-    Personally I am addicted to technical courses, whenever I finish one there are dozens of more interesting ones waiting in the queue. As Steve Jobs said "there is always one more thing to learn". But, when I am not working or taking new courses, I enjoy vacationing with my family and friends. In 2023 I got Senior Data Scientist certification from the top world's credentialing body <a href="https://www.dasca.org/data-science-certifications/senior-data-scientist">DASCA</a> (exam passed in April). 
-    </p>
-    <p class="lead">
-    My area of focus is applying data science to business. 
-    I create value for my projects by understanding the financial
-    cost of problems and delivering a return-on-investment with my solutions. 
-    I enjoy learning, working with stakeholders, and making better decisions with data.
+    I’m deeply passionate about continuous learning in data science, AI, and analytics—there's always one more course, framework, or technique to master (as Steve Jobs aptly put it: 'there's always one more thing to learn'). My queue of technical courses never seems to shrink.
+
+    In April 2023, I earned the Senior Data Scientist (SDS™) certification from <a href="https://www.dasca.org/data-science-certifications/senior-data-scientist">DASCA</a> (Data Science Council of America), a globally recognized credential validating advanced expertise in data modeling, machine learning, predictive analytics, and leading data-driven initiatives.
+
+    Outside of work and learning, I recharge by traveling and spending quality time with family and friends—whether on a relaxing vacation or creating new memories together.
     </p>
   button:
     icon: "icon-linkedin-fill"
